@@ -1,0 +1,6 @@
+{
+  "name": "CoffeeGo",
+  "description": "A premium and tactile high-tech portable coffee frother with interactive 3D motion features and a rich roast aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
